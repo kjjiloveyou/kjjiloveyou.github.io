@@ -4,7 +4,7 @@
 # 始于颜值
 - 身为萝莉控的我来说，小巧的身躯对于我来说无异于，甜美的声音是我这辈子听过最好的声音，没有之一。也是这个时候，我开始关注你。
 ![Image text](https://raw.githubusercontent.com/zhongqian97/kjj/master/1.jpg)
-![第二张](https://github.com/zhongqian97/kjj/blob/master/2.jpg)
+![第二张](https://raw.githubusercontent.com/zhongqian97/kjj/master/2.jpg)
 # 陷于才华
 - 浩瀚的阅读量可能是我这二十一年（再加个十年也不为过）无法达到的。曾经的我是多么的你厌恶阅读，但这次我开始喜欢上了文学这类阅读。
 - 在我们没有成为男女朋友之后，你给我描写的我们的未来，是多么的，令人向往，让我从此不觉得宅是多么美好。我愿意做那未来的男主角，你愿意吗？
